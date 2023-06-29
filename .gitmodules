@@ -1,0 +1,3 @@
+[submodule "3rd/sdfstudio"]
+	path = 3rd/sdfstudio
+	url = https://github.com/HikariS97/sdfstudio
